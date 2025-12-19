@@ -9,7 +9,7 @@ A RESTful API built with Go to manage users with their **name** and **date of bi
 ### 1. Clone the repository
 
 ```bash
-git clone <repo-url>
+git clone [<repo-url>](https://github.com/Sq1754/Go-backend-task.git)
 ```
 
 ### 2. Docker Setup
