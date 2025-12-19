@@ -4,12 +4,12 @@ A RESTful API built with Go to manage users with their **name** and **date of bi
 
 ---
 
-## 🚀 Setup & Run
+## Setup & Run
 
 ### 1. Clone the repository
 
 ```bash
-git clone [<repo-url>](https://github.com/Sq1754/Go-backend-task.git)
+git clone https://github.com/Sq1754/Go-backend-task.git
 ```
 
 ### 2. Docker Setup
